@@ -1,4 +1,4 @@
-body {
+body{
     background-color: lightblue;
 }
 
@@ -7,7 +7,7 @@ p{
     color: DarkBlue;
 }
 
-img {
+img{
 	width: 20%;
 	display: none;
 }
