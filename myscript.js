@@ -7,8 +7,4 @@ $(document).ready(function() {
 		$("img").css("border","25px solid black"); 
 	});
 });
-$(document).ready(function(){
-  $("p1").click(function(){
-    $(this).hide();
-  });
-})
+ 
